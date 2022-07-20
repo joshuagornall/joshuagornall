@@ -3,7 +3,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuagornall)
 [![Mail](https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshua.gornall@gmail.com)
 [![Website](https://img.shields.io/website?label=gornall.tech&style=for-the-badge&url=https%3A%2F%2Fpersonal-website-2022-joshuagornall.vercel.app/)](https://personal-website-2022-joshuagornall.vercel.app/)
-[![Medium](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuagornall)
+[![Medium](https://img.shields.io/badge/Read-E0B0FF?label=medium&style=for-the-badge&logo=medium&logoColor=white)](https://joshuagornall.medium.com/)
 
 - 🌱 I’m currently learning everything I possible can 🤣
 - 👯 I’m looking to collaborate with other devs on cool project, send me a message :)
