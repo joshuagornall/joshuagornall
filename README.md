@@ -1,37 +1,55 @@
 ## Hallo! Wilkommen! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="25" height="25">
 
-I am Josh. I'm from the UK but spent most of my childhood in Australia. I studied Chemistry (Bsc Hons) in the UK at the University of Liverpool and pursued a PhD in Computational Material Physics at the University of Manchester. I have spent the last year as a Full-Stack Developer at Theodo, with experience in programming throughout my studies at many cool companies. You can find me on [![Gmail][1]][1.1], [![LinkedIn][2]][2.1], [![LeetCode][3]][3.1],and on [![Medium][4]][4.1]. Check out my portfolio website at <a href="https://personal-website-2022-joshuagornall.vercel.app/"> gornall.tech</a>.
+[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuagornall)
+[![Mail](https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshua.gornall@gmail.com)
+[![Website](https://img.shields.io/website?label=gornall.tech&style=for-the-badge&url=https%3A%2F%2Fpersonal-website-2022-joshuagornall.vercel.app/)](https://personal-website-2022-joshuagornall.vercel.app/)
+[![Medium](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuagornall)
+
+- 🌱 I’m currently learning everything I possible can 🤣
+- 👯 I’m looking to collaborate with other devs on cool project, send me a message :)
+- 🥅 2022 Goals: Become fluent in German and travel Europe.
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://personal-website-2022-joshuagornall.vercel.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://personal-website-2022-joshuagornall.vercel.app/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/joshuagornall#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/joshuagornallr#gh-dark-mode-only)
 
 
-### 🔧 Tools & Languages I use
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=eclipse&logoColor=white)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=zsh&logoColor=white)
-![](https://img.shields.io/badge/Tool-PostGreSQL-informational?style=flat&logo=PostGreSQLL&logoColor=white)
+### Languages and Tools:
 
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="PostGreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Django" width="26px" src="./img/django-plain-wordmark.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />](#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px;" />](#gh-dark-mode-only)
 
-### &#x1f4c8; GitHub Stats
-<a href="https://github.com/joshuagornall/joshuagornall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuagornall&title_color=ffffff&text_color=c9cacc&icon_color=4f7cba&bg_color=11161d&hide_title=true&layout=default&langs_count=3&hide_border=true&hide=javascript,html,css"/>
-</a>
-<a href="https://github.com/joshuagornall/joshuagornall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuagornall&show_icons=true&line_height=27&count_private=true&title_color=4f7cba&text_color=c9cacc&icon_color=4f7cba&bg_color=11161d&include_all_commits=true&hide_title=true&hide_rank=false&hide_border=true" alt="Stats"/>
-</a>
+---
 
+### 📕 Latest Blog Posts
 
-![pageviews](https://visitor-badge.glitch.me/badge?page_id=joshuagornall)
-![follow-button](https://img.shields.io/github/followers/joshuagornall?label=follow%20mee%21&style=social)
+<!-- BLOG-POST-LIST:START -->
+- [The 5 dysfunctions of a team - my take](https://joshuagornall.medium.com/5-dysfunctions-of-a-team-my-take-6853d5c14a3f)
+- [How I made a runescape bot](https://joshuagornall.medium.com/how-i-made-a-runescape-bot-90248acae34)
+- [If you know how to cook you understand machine learning](https://joshuagornall.medium.com/if-you-know-how-to-cook-you-understand-machine-learning-c5908dbd97fd)
+<!-- BLOG-POST-LIST:END -->
 
-<!-- links to social media icons -->
+➡️ [more blog posts...](https://personal-website-2022-joshuagornall.vercel.app/)
 
-[1]: https://i.imgur.com/Oy5eMls.png (gmail icon)
-[2]: https://i.imgur.com/8SInFes.png (linkedin icon)
-[3]: https://i.imgur.com/aSP9cRE.png (leetcode icon)
-[4]: https://imgur.com/a/Ws6YGls.png (medium icon)
+---
+
 
 <!-- links to your social media accounts -->
 
