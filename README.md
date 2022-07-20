@@ -6,7 +6,7 @@
 [![Medium](https://img.shields.io/badge/Read-E0B0FF?label=medium&style=for-the-badge&logo=medium&logoColor=white)](https://joshuagornall.medium.com/)
 
 - 🌱 I’m currently learning everything I possible can 🤣
-- 👯 I’m looking to collaborate with other devs on cool project, send me a message :)
+- 👯 I’m looking to collaborate with other devs on cool projects (open source too!), send me a message :)
 - 🥅 2022 Goals: Become fluent in German and travel Europe.
 
 ### Connect with me:
