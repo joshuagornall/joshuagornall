@@ -43,14 +43,5 @@
 - [If you know how to cook you understand machine learning](https://joshuagornall.medium.com/if-you-know-how-to-cook-you-understand-machine-learning-c5908dbd97fd)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://personal-website-2022-joshuagornall.vercel.app/)
+➡️ [See more blog posts](https://joshuagornall.medium.com)
 
----
-
-
-<!-- links to your social media accounts -->
-
-[1.1]: mailto:joshua.gornall@gmail.com
-[2.1]: https://www.linkedin.com/in/joshuagornall/
-[3.1]: https://leetcode.com/JoshuaGornall/
-[4.1]: https://joshuagornall.medium.com/
