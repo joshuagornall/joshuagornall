@@ -2,7 +2,7 @@
 
 [![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuagornall)
 [![Mail](https://img.shields.io/badge/Contact-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshua.gornall@gmail.com)
-[![Website](https://img.shields.io/website?label=gornall.tech&style=for-the-badge&url=https%3A%2F%2Fpersonal-website-2022-joshuagornall.vercel.app/)](https://personal-website-2022-joshuagornall.vercel.app/)
+[![Website](https://img.shields.io/website?label=Personal-site&style=for-the-badge&url=https%3A%2F%2Fjoshuagornall.vercel.app/)](https://joshuagornall.vercel.app/)
 [![Medium](https://img.shields.io/badge/Read-E0B0FF?label=medium&style=for-the-badge&logo=medium&logoColor=white)](https://joshuagornall.medium.com/)
 
 - 🌱 I’m currently learning everything I possible can 🤣
@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://personal-website-2022-joshuagornall.vercel.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://personal-website-2022-joshuagornall.vercel.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://joshuagornall.vercel.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://joshuagornall.vercel.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/joshuagornall#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/joshuagornallr#gh-dark-mode-only)
