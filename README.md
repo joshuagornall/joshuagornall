@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything I possible can 🤣
 - 👯 I’m looking to collaborate with other devs on cool projects (open source too!), send me a message :)
-- 🥅 2023 Goals: Become more fluent in German and travel Europe more.
+- 🥅 2023 Goals: Become fluent in German and travel Europe more.
 
 
 ### Connect with me:
