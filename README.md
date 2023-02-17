@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=Personal-site&style=for-the-badge&url=https%3A%2F%2Fjoshuagornall.vercel.app/)](https://joshuagornall.vercel.app/)
 [![Medium](https://img.shields.io/badge/Read-E0B0FF?label=medium&style=for-the-badge&logo=medium&logoColor=white)](https://joshuagornall.medium.com/)
 
-- 🌱 I’m currently learning everything I possible can 🤣
+- 🌱 I’m currently learning everything I possible can 
 - 👯 I’m looking to collaborate with other devs on cool projects (open source too!), send me a message :)
 - 🥅 2023 Goals: Become fluent in German and travel Europe more.
 
